@@ -1,0 +1,97 @@
+    1  git -v
+    2  cd
+    3  cd isec
+    4  ls
+    5  cd 1Ano/
+    6  ls
+    7  cd IP/
+    8  ls
+    9  cd pratica/
+   10  ls
+   11  clear
+   12  cd class0
+   13  cd class02/
+   14  ls
+   15  gcc ex1.c -o ex1
+   16  ls
+   17  ll
+   18  ./ex1
+   19  gcc ex1.c -o ex1
+   20  ./ex1
+   21  gcc ex1.c -o ex1
+   22  ./ex1
+   23  gcc ex1.c -o ex1
+   24  ./ex1
+   25  gcc ex2.c -o ex2
+   26  ls
+   27  cd ..
+   28  ls
+   29  cd class0
+   30  cd class02
+   31  ls
+   32  gcc ex2.c -o ex2
+   33  ex2
+   34  ./ex2
+   35  rm ex2
+   36  cd ..
+   37  ls
+   38  cd class02
+   39  gcc ex3.c -o ex3
+   40  ex3
+   41  ./ex3
+   42  gcc ex3.c -o ex3
+   43  gcc ex3.c -o ex3 -lm
+   44  ./ex3
+   45  gcc ex3.c -o ex3 -lm
+   46  ./ex3
+   47  rm ex3
+   48  history
+   49  history > save.txt
+   50  cat save.txt 
+   51  rm save.txt 
+   52  ll
+   53  ls -l
+   54  vim ~/.bashrc 
+   55  cd ..
+   56  ls
+   57  ls -lah
+   58  ll
+   59  vim ~/.bashrc 
+   60  gitstatus
+   61  git status
+   62  cd class02
+   63  git status
+   64  git add .
+   65  git status
+   66  git commit -m "Added ex3"
+   67  git config --global --edit
+   68  git commit -m "Added ex3"
+   69  git push
+   70  gcc ex3.c -o ex4
+   71  gcc ex4.c -o ex4
+   72  ex4
+   73  ./ex4
+   74  ex4
+   75  gcc ex4.c -o ex4
+   76  ./ex4
+   77  gcc ex4.c -o ex4
+   78  ./ex4
+   79  gcc ex4.c -o ex4
+   80  ./ex4
+   81  gcc ex4.c -o ex4
+   82  ./ex4
+   83  gcc ex4.c -o ex4
+   84  ./ex4
+   85  gcc ex4.c -o ex4
+   86  ./ex4
+   87  gcc ex4.c -o ex4
+   88  ./ex4
+   89  gcc ex4.c -o ex4
+   90  ./ex4
+   91  gcc ex4.c -o ex4
+   92  ./ex4
+   93  gcc ex4.c -o ex4
+   94  ./ex4
+   95  gcc ex4.c -o ex4
+   96  ./ex4
+   97  history > commands.txt
