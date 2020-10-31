@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <math.h>
 
-void main (void) {
+void main(void)
+{
     double raio, area, per;
     printf ("Find Area: ");
     scanf ("%lf", &raio);
